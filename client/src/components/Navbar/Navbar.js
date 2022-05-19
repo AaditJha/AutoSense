@@ -14,7 +14,6 @@ function NavBar() {
           <NavLink exact to="/" className="nav-logo">
             <img src={Logo} alt="logo" width="75%" />
           </NavLink>
-
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <NavLink
