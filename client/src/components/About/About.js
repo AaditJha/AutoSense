@@ -22,7 +22,7 @@ function About() {
           about the Automative Industry.
           <br />
           <br />
-          Deep dive inside the project's source code here:
+          Dive deep inside the project's source code here:
           <br />
           <a
             href="https://github.com/AaditJha/AutoSense"

@@ -27,7 +27,7 @@ function LandingPage() {
       <div clasName="title-items">
         <h1 className="landing-title">Making sense of your Automotive Data</h1>
         <h2 style={{ color: "#dfdfdf" }}> with AutoSense</h2>
-        <h2 className="sub-text">I'm a </h2>
+        <h2 className="sub-text">You're a . . . </h2>
         <Button className={classes.start}>Manufacturer</Button>
         <Button className={classes.start}>Consumer</Button>
       </div>
