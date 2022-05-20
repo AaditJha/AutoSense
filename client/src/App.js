@@ -6,6 +6,7 @@ import Features from "./components/Features/Features";
 import Services from "./components/Services/Services";
 import Sections from "./components/Commons/Sections";
 import About from "./components/About/About";
+import Contact from "./components/Contact/Contact";
 
 const App = () => {
   return (
@@ -30,6 +31,12 @@ const App = () => {
         subTitle="Microsoft Engage 2022"
         section={<About />}
       />
+      <Sections
+        id="contact-section"
+        title="Meet the Developer"
+        subTitle="Any question or remark? Just write me a message!"
+        section={<Contact />}
+        />
     </>
   );
 };

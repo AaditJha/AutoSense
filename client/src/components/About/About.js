@@ -53,6 +53,10 @@ function About() {
         <img src="./img/ms.png" alt="ms-logo" width="25%" />
         <img src="./img/engage.png" alt="engage-logo" width="20%" />
       </div>
+      <div className="text-body">
+        Be a part of my journey and see how I developed this website.
+        <img src="./img/timeline.svg" alt="timeline" width="100%" style={{paddingTop:"2%"}}/>
+      </div>
     </>
   );
 }
