@@ -8,9 +8,10 @@
   position: sticky;
   top: 0;
   z-index: 20;
+  transition:all 0.25s ease-in-out;
 }
 .navbar-active {
-  background-color: #222;
+  background-color: #181818;
   height: 70px;
   display: flex;
   justify-content: center;
@@ -19,6 +20,7 @@
   position: sticky;
   top: 0;
   z-index: 20;
+  transition:all 0.25s ease-in-out;
 }
 .nav-container {
   display: flex;
