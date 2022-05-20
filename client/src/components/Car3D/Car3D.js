@@ -5,7 +5,7 @@ import { Environment, OrbitControls } from "@react-three/drei";
 
 function Car3D() {
   return (
-    <div style={{marginTop:"50px",height:"300px",width:"500px"}}>
+    <div style={{ marginTop: "50px", height: "300px", width: "500px" }}>
       <Canvas camera={{ position: [3, 6, 7], fov: 35 }}>
         <Suspense>
           <OrbitControls
@@ -14,7 +14,8 @@ function Car3D() {
             maxPolarAngle={Math.PI / 2.75}
             minPolarAngle={Math.PI / 2.75}
           />
-          <Environment preset="sunset" />
+          <Environment preset="city" />
+          <ambientLight intensity={1} />
           <Car3DElement />
         </Suspense>
       </Canvas>

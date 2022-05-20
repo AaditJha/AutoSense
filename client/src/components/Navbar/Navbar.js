@@ -1,15 +1,29 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./Navbar.css";
 import Logo from "../../img/logo.svg";
 
 function NavBar() {
   const [click, setClick] = useState(false);
+  const [active, setActive] = useState(false);
+
+  const changeBackground = () => {
+    if (window.scrollY >= 70) {
+      setActive(true);
+    } else {
+      setActive(false);
+    }
+  };
+
+  useEffect(() => {
+    changeBackground();
+    window.addEventListener("scroll", changeBackground);
+  });
 
   const handleClick = () => setClick(!click);
   return (
     <>
-      <nav className="navbar">
+      <nav className={active ? "navbar-active" : "navbar"}>
         <div className="nav-container">
           <NavLink exact to="/" className="nav-logo">
             <img src={Logo} alt="logo" width="75%" />
