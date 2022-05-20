@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
-import { NavLink } from "react-router-dom";
-import "./Navbar.css";
+import "../../styles/Navbar.css";
 import Logo from "../../img/logo.svg";
+import { HashLink as Link } from 'react-router-hash-link';
+import { NavLink } from 'react-router-dom';
 
 function NavBar() {
   const [click, setClick] = useState(false);
@@ -48,12 +49,11 @@ function NavBar() {
                 className="nav-links"
                 onClick={handleClick}
               >
-                About
+                Services
               </NavLink>
             </li>
             <li className="nav-item">
               <NavLink
-                exact
                 to="/features"
                 activeClassName="active"
                 className="nav-links"
@@ -70,7 +70,7 @@ function NavBar() {
                 className="nav-links"
                 onClick={handleClick}
               >
-                Services
+                About
               </NavLink>
             </li>
             <li className="nav-item">

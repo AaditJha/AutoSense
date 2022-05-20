@@ -1,0 +1,12 @@
+.feature-item {
+  padding: 2% 0% 2% 0%;
+  display: flex;
+  align-items: flex-start;
+  transition: transform 0.2s ease;
+}
+.feature-item:hover {
+  transform: scale(1.025);
+}
+.feature-text {
+  width: 200px;
+}

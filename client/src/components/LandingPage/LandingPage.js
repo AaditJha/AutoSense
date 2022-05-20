@@ -1,11 +1,11 @@
 import React from "react";
-import "./LandingPage.css";
+import "../../styles/LandingPage.css";
 import { Button, makeStyles } from "@material-ui/core";
 import Car3D from "../Car3D/Car3D";
 
 const useStyles = makeStyles({
   start: {
-    background: "#248aff",
+    background: "#6cc3cf",
     border: 0,
     borderRadius: 5,
     fontSize: "x-large",
@@ -27,11 +27,11 @@ function LandingPage() {
       <div clasName="title-items">
         <h1 className="landing-title">Making sense of your Automotive Data</h1>
         <h2 style={{ color: "#dfdfdf" }}> with AutoSense</h2>
-        <div className="sub-text">I'm a </div>
-        <Button className={classes.start}>Manager</Button>
+        <h2 className="sub-text">I'm a </h2>
+        <Button className={classes.start}>Manufacturer</Button>
         <Button className={classes.start}>Consumer</Button>
       </div>
-      <div className="title-items">
+      <div>
         <Car3D />
       </div>
     </div>

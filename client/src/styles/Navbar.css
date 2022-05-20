@@ -67,9 +67,9 @@
   content: "";
   display: block;
   height: 3px;
-  width: 0;
+  width: 0%;
   background: transparent;
-  transition: width 0.7s ease, background-color 0.5s ease;
+  transition: width 0.5s ease, background-color 0.5s ease;
 }
 
 .nav-item:hover:after {
@@ -79,6 +79,7 @@
 
 .nav-item .active {
   color: #6cc3c5;
+  border-bottom: 3px  solid #6cc3c5;
 }
 
 .nav-icon {
