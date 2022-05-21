@@ -8,11 +8,12 @@ import Sections from "./components/Commons/Sections";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 
+
 const App = () => {
   return (
     <>
       <Navbar />
-      <LandingPage />
+      <LandingPage id="home-section" />
       <Sections
         id="services-section"
         title="Getting Started with AutoSense"
@@ -20,7 +21,7 @@ const App = () => {
         section={<Services />}
       />
       <Sections
-        id="feature-section"
+        id="features-section"
         title="Analyse your data better"
         subTitle="With Autosense, you can:"
         section={<Features />}

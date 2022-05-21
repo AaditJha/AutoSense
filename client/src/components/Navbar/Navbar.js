@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "../../styles/Navbar.css";
 import Logo from "../../img/logo.svg";
-import { HashLink as Link } from 'react-router-hash-link';
-import { NavLink } from 'react-router-dom';
+import { NavLink } from "react-router-dom";
+import { Link } from "react-scroll";
 
 function NavBar() {
   const [click, setClick] = useState(false);
@@ -31,58 +31,69 @@ function NavBar() {
           </NavLink>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <NavLink
-                exact
-                to="/"
+              <Link
                 activeClassName="active"
                 className="nav-links"
-                onClick={handleClick}
+                to="home-section"
+                spy={true}
+                smooth={true}
+                duration={500}
+                offset={-70}
               >
                 Home
-              </NavLink>
+              </Link>
             </li>
             <li className="nav-item">
-              <NavLink
-                exact
-                to="/about"
+              <Link
                 activeClassName="active"
                 className="nav-links"
-                onClick={handleClick}
+                to="services-section"
+                spy={true}
+                smooth={true}
+                offset={-10}
+                duration={500}
               >
                 Services
-              </NavLink>
+              </Link>
             </li>
             <li className="nav-item">
-              <NavLink
-                to="/features"
+            <Link
                 activeClassName="active"
                 className="nav-links"
-                onClick={handleClick}
+                to="features-section"
+                spy={true}
+                smooth={true}
+                offset={-10}
+                duration={500}
               >
                 Features
-              </NavLink>
+              </Link>
             </li>
             <li className="nav-item">
-              <NavLink
-                exact
-                to="/services"
+            <Link
                 activeClassName="active"
                 className="nav-links"
-                onClick={handleClick}
+                to="about-section"
+                spy={true}
+                smooth={true}
+                offset={-10}
+                duration={500}
               >
                 About
-              </NavLink>
+              </Link>
             </li>
             <li className="nav-item">
-              <NavLink
-                exact
-                to="/contact"
+            <Link
                 activeClassName="active"
                 className="nav-links"
-                onClick={handleClick}
+                to="contact-section"
+                spy={true}
+                smooth={true}
+                offset={-10}
+                duration={500}
               >
                 Contact
-              </NavLink>
+              </Link>
             </li>
           </ul>
           <div className="nav-icon" onClick={handleClick}>

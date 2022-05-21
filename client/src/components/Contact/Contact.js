@@ -86,7 +86,7 @@ function Contact() {
             required
           />
           <Button className={classes.start} type="submit">
-            Send Query
+            Send Message
           </Button>
         </form>
       </Box>
