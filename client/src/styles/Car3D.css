@@ -1,0 +1,11 @@
+.car3d-canvas {
+    margin-top: 50px;
+    height: 300px;
+    width: 500px;
+}
+
+@media screen and (max-width: 768px){
+    .car3d-canvas {
+        display: none;
+    }
+}

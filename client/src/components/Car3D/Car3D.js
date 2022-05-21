@@ -2,10 +2,11 @@ import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import Car3DElement from "./Car3DElement";
 import { Environment, OrbitControls } from "@react-three/drei";
+import "../../styles/Car3D.css";
 
 function Car3D() {
   return (
-    <div style={{ marginTop: "50px", height: "300px", width: "500px" }}>
+    <div className="car3d-canvas">
       <Canvas camera={{ position: [3, 6, 7], fov: 35 }}>
         <Suspense>
           <OrbitControls
