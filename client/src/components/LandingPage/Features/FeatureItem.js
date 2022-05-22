@@ -1,7 +1,7 @@
 import React from "react";
-import "../../styles/Features.css"
+import "../../../styles/Features.css"
 import { Box } from "@material-ui/core";
-import test from "../../img/test.png";
+import test from "../../../img/test.png";
 
 export default function FeatureItem(props) {
   return (

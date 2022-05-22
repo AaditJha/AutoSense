@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, {  useState } from "react";
 import "../../styles/Navbar.css";
 import Logo from "../../img/logo.svg";
-import { NavLink } from "react-router-dom";
 import { Link } from "react-scroll";
 
 function NavBar(props) {
@@ -12,10 +11,21 @@ function NavBar(props) {
     <>
       <nav className={active ? "navbar-active" : "navbar"}>
         <div className="nav-container">
-          <NavLink exact to="/" className="nav-logo">
-            <img src={"./img/logo.svg"} alt="logo" width="10%" />
-            <img src={Logo} alt="logo" width="60%" style={{paddingLeft:"2%"}} />
-          </NavLink>
+          <Link
+            className="nav-logo"
+            to="home-section"
+            smooth={true}
+            duration={500}
+            offset={-70}
+          >
+            <img src={"./img/logo.svg"} alt="logo" width="8%" />
+            <img
+              src={Logo}
+              alt="logo"
+              width="50%"
+              style={{ paddingLeft: "2%" }}
+            />
+          </Link>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <Link
@@ -44,7 +54,7 @@ function NavBar(props) {
               </Link>
             </li>
             <li className="nav-item">
-            <Link
+              <Link
                 activeClassName="active"
                 className="nav-links"
                 to="features-section"
@@ -57,7 +67,7 @@ function NavBar(props) {
               </Link>
             </li>
             <li className="nav-item">
-            <Link
+              <Link
                 activeClassName="active"
                 className="nav-links"
                 to="about-section"
@@ -70,7 +80,7 @@ function NavBar(props) {
               </Link>
             </li>
             <li className="nav-item">
-            <Link
+              <Link
                 activeClassName="active"
                 className="nav-links"
                 to="contact-section"

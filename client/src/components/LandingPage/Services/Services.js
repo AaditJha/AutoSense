@@ -1,7 +1,7 @@
 import React from "react";
 import ServiceItem from "./ServiceItem";
-import manufacturer from "../../img/manufacturer.png";
-import consumer from "../../img/consumer.png";
+import manufacturer from "../../../img/manufacturer.png";
+import consumer from "../../../img/consumer.png";
 
 
 function Services() {

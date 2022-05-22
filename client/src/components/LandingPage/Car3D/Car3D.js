@@ -2,7 +2,7 @@ import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import Car3DElement from "./Car3DElement";
 import { Environment, OrbitControls } from "@react-three/drei";
-import "../../styles/Car3D.css";
+import "../../../styles/Car3D.css";
 
 function Car3D() {
   return (

@@ -1,10 +1,10 @@
 .sections {
   padding-top: 5%;
-  margin-bottom: 2%;
 }
 .title {
   text-align: center;
   width: 100%;
+  margin-top: 1%;
   padding: 0% 35% 0% 35%;
   font-size: 40px;
   color: #262626;

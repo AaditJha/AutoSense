@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/Services.css";
+import "../../../styles/Services.css";
 import { Box } from "@material-ui/core";
 
 export default function ServiceItem(props) {

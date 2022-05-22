@@ -1,31 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
 * {
-  font-family: 'Sora', sans-serif;
+  font-family: "Sora", sans-serif;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
+
+html{
+  margin: 0;
+  padding: 0;
+}
 body{
     background-color: #d5d5d5;
     z-index: 0;
-}
-
-.scroll-up-active{
-  position: fixed;
-  bottom: 2vh;
-  right: 2vh;
-  z-index: 10;
-  transform: none;
-  transition: transform 0.5s ease;
-}
-
-.scroll-up{
-  position: fixed;
-  bottom: 2vh;
-  right: 2vh;
-  z-index: 10;
-  transition: transform 0.5s ease;
-  transform: translateY(20vh);
 }

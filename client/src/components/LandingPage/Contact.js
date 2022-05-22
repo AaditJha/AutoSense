@@ -1,10 +1,10 @@
 import { Box, Button, TextField, makeStyles } from "@material-ui/core";
 import React from "react";
 import "../../styles/Contact.css";
-import GitHubIcon from "@mui/icons-material/GitHub";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import MailIcon from "@mui/icons-material/Mail";
+import  GitHubIcon from "@mui/icons-material/GitHub";
+import  LinkedInIcon  from "@mui/icons-material/LinkedIn";
+import  TwitterIcon  from "@mui/icons-material/Twitter";
+import MailIcon  from "@mui/icons-material/Mail";
 
 const useStyles = makeStyles({
   start: {
@@ -30,7 +30,7 @@ function Contact() {
   return (
     <Box className="contact-body">
       <Box className="contact-card">
-        <img src="./img/me.png" alt="me" className="profile-image"/>
+        <img src="./img/me.png" alt="me" className="profile-image" />
         <div className="contact-title">
           Hi,
           <br /> I'm Aadit
@@ -39,11 +39,18 @@ function Contact() {
         <div style={{ color: "#262626", fontSize: "medium" }}>
           Student | CSE'24 | IIIT Delhi
         </div>
-        <div style={{ color: "#fff", fontSize: "small", fontWeight:"bold", paddingTop:"15%" }}>
+        <div
+          style={{
+            color: "#fff",
+            fontSize: "small",
+            fontWeight: "bold",
+            paddingTop: "15%",
+          }}
+        >
           Contact Me
         </div>
         <div className="social-media-container">
-            <TwitterIcon className="social-medias" />
+          <TwitterIcon className="social-medias" />
           <a href="https://github.com/AaditJha" target="_blank">
             <GitHubIcon className="social-medias" />
           </a>
@@ -53,7 +60,7 @@ function Contact() {
           >
             <LinkedInIcon className="social-medias" />
           </a>
-            <MailIcon className="social-medias" />
+          <MailIcon className="social-medias" />
         </div>
       </Box>
       <Box className="query-card">
