@@ -4,23 +4,9 @@ import Logo from "../../img/logo.svg";
 import { NavLink } from "react-router-dom";
 import { Link } from "react-scroll";
 
-function NavBar() {
+function NavBar(props) {
   const [click, setClick] = useState(false);
-  const [active, setActive] = useState(false);
-
-  const changeBackground = () => {
-    if (window.scrollY >= 70) {
-      setActive(true);
-    } else {
-      setActive(false);
-    }
-  };
-
-  useEffect(() => {
-    changeBackground();
-    window.addEventListener("scroll", changeBackground);
-  });
-
+  const active = props.active;
   const handleClick = () => setClick(!click);
   return (
     <>
