@@ -10,7 +10,6 @@ import Sections from "./Sections";
 import About from "./About";
 import Contact from "./Contact";
 import { Link as ExternLink } from "react-router-dom";
-import FadeIn from "../FadeIn";
 
 const useStyles = makeStyles({
   start: {
@@ -89,36 +88,24 @@ function LandingPage(props) {
           subTitle="Choose the profile that fits you:"
           section={<Services />}
         />
-        <FadeIn
-          render={
             <Sections
               id="features-section"
               title="Analyse your data better"
               subTitle="With Autosense, you can:"
               section={<Features />}
             />
-          }
-        />
-        <FadeIn
-          render={
             <Sections
               id="about-section"
               title="About AutoSense"
               subTitle="Microsoft Engage 2022"
               section={<About />}
             />
-          }
-        />
-        <FadeIn
-          render={
             <Sections
               id="contact-section"
               title="Meet the Developer"
               subTitle="Any question or remark? Just write me a message!"
               section={<Contact />}
             />
-          }
-        />
       </>
     </>
   );
