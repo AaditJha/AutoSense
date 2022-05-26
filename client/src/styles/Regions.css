@@ -1,0 +1,13 @@
+.region{
+    height: 75vh;
+    overflow-y: scroll;
+    width: 80vw;
+    display: flex;
+}
+.region-container{
+    display: flex;
+    flex-direction: column;
+}
+.region-title{
+    margin: 5% 0% 5% 5%;
+}
