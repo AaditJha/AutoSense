@@ -1,6 +1,5 @@
 import React from "react";
 import Dashboard from "../Dashboard/Dashboard";
-import CarSales from "../Manufacturer/CarSales";
 
 
 function Consumer() {

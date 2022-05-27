@@ -8,3 +8,5 @@ cars$torque
 sales <- read.csv("CSVs/sales_figure.csv")
 features <- data.frame(names(cars))
 unique(cars$fuel_system)
+
+barplot(cars$ex.showroom_price)

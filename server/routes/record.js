@@ -12,15 +12,15 @@ const dbo = require("../db/conn");
 const ObjectId = require("mongodb").ObjectId;
  
  
-// This section will help you get a list of all the records.
-recordRoutes.route("/record").get(function (req, res) {
- let db_connect = dbo.getDb("cars");
+// This section will sample 5 records.
+recordRoutes.route("/sample").get(function (req, res) {
+ let db_connect = dbo.getDb("Autosense");
  db_connect
-   .collection("records")
-   .find({})
+   .collection("Autosense-engage-dataset")
+   .aggregate([{ $sample: {size: 5}}])
    .toArray(function (err, result) {
      if (err) throw err;
-     res.json(result);
+     res.status(200).json(result);
    });
 });
  

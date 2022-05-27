@@ -1,7 +1,3 @@
-Create database from datasets
-Create a basic frontend 
-Look into data visualization
-lm Models
 public
 cloudinary
 warnings
@@ -9,6 +5,16 @@ responsive
 doc
 folder restructuring
 fade in no translate
-dashboards
 loading
 % to vh
+reducers
+
+
+add filters to charts
+complete remaining sections
+backend plus Models
+
+todo
+deploy 
+test
+document

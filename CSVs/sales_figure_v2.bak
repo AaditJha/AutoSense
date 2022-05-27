@@ -1,0 +1,1031 @@
+make,model,month,sales
+Mahindra,Alturas G4,July 2021,44
+Mahindra,Alturas G4,August 2021,42
+Mahindra,Alturas G4,September 2021,51
+Mahindra,Alturas G4,October 2021,40
+Mahindra,Alturas G4,November 2021,80
+Mahindra,Alturas G4,December 2021,18
+Mahindra,Alturas G4,January 2022,0
+Mahindra,Alturas G4,February 2022,27
+Mahindra,Alturas G4,March 2022,41
+Mahindra,Alturas G4,April 2022,47
+Mahindra,Bolero,July 2021,6491
+Mahindra,Bolero,August 2021,3218
+Mahindra,Bolero,September 2021,1755
+Mahindra,Bolero,October 2021,6375
+Mahindra,Bolero,November 2021,5442
+Mahindra,Bolero,December 2021,5314
+Mahindra,Bolero,January 2022,3506
+Mahindra,Bolero,February 2022,11045
+Mahindra,Bolero,March 2022,6924
+Mahindra,Bolero,April 2022,7686
+Mahindra,Marazzo,July 2021,279
+Mahindra,Marazzo,August 2021,181
+Mahindra,Marazzo,September 2021,70
+Mahindra,Marazzo,October 2021,12
+Mahindra,Marazzo,November 2021,99
+Mahindra,Marazzo,December 2021,2
+Mahindra,Marazzo,January 2022,0
+Mahindra,Marazzo,February 2022,147
+Mahindra,Marazzo,March 2022,279
+Mahindra,Marazzo,April 2022,168
+Mahindra,Scorpio,July 2021,3855
+Mahindra,Scorpio,August 2021,2606
+Mahindra,Scorpio,September 2021,2588
+Mahindra,Scorpio,October 2021,3304
+Mahindra,Scorpio,November 2021,3370
+Mahindra,Scorpio,December 2021,1757
+Mahindra,Scorpio,January 2022,3026
+Mahindra,Scorpio,February 2022,2610
+Mahindra,Scorpio,March 2022,6061
+Mahindra,Scorpio,April 2022,2712
+Mahindra,Thar,July 2021,3203
+Mahindra,Thar,August 2021,3493
+Mahindra,Thar,September 2021,3134
+Mahindra,Thar,October 2021,2692
+Mahindra,Thar,November 2021,3181
+Mahindra,Thar,December 2021,2138
+Mahindra,Thar,January 2022,4646
+Mahindra,Thar,February 2022,5072
+Mahindra,Thar,March 2022,3893
+Mahindra,Thar,April 2022,3152
+Mahindra,XUV300,July 2021,6027
+Mahindra,XUV300,August 2021,5861
+Mahindra,XUV300,September 2021,3693
+Mahindra,XUV300,October 2021,4203
+Mahindra,XUV300,November 2021,4005
+Mahindra,XUV300,December 2021,4260
+Mahindra,XUV300,January 2022,4550
+Mahindra,XUV300,February 2022,4511
+Mahindra,XUV300,March 2022,4140
+Mahindra,XUV300,April 2022,3909
+Mahindra,eVerito,July 2021,0
+Mahindra,eVerito,August 2021,0
+Mahindra,eVerito,September 2021,0
+Mahindra,eVerito,October 2021,0
+Mahindra,eVerito,November 2021,0
+Mahindra,eVerito,December 2021,0
+Mahindra,eVerito,January 2022,12
+Mahindra,eVerito,February 2022,12
+Mahindra,eVerito,March 2022,6
+Mahindra,eVerito,April 2022,1
+Mahindra,Bolero Pick up,July 2021,0
+Mahindra,Bolero Pick up,August 2021,0
+Mahindra,Bolero Pick up,September 2021,0
+Mahindra,Bolero Pick up,October 2021,0
+Mahindra,Bolero Pick up,November 2021,0
+Mahindra,Bolero Pick up,December 2021,0
+Mahindra,Bolero Pick up,January 2022,0
+Mahindra,Bolero Pick up,February 2022,0
+Mahindra,Bolero Pick up,March 2022,0
+Mahindra,Bolero Pick up,April 2022,0
+Mahindra,XUV700 5-Seater,July 2021,0
+Mahindra,XUV700 5-Seater,August 2021,0
+Mahindra,XUV700 5-Seater,September 2021,1370
+Mahindra,XUV700 5-Seater,October 2021,3407
+Mahindra,XUV700 5-Seater,November 2021,3207
+Mahindra,XUV700 5-Seater,December 2021,3980
+Mahindra,XUV700 5-Seater,January 2022,4119
+Mahindra,XUV700 5-Seater,February 2022,4138
+Mahindra,XUV700 5-Seater,March 2022,6040
+Mahindra,XUV700 5-Seater,April 2022,4494
+Mahindra,Bolero Neo,July 2021,0
+Mahindra,Bolero Neo,August 2021,0
+Mahindra,Bolero Neo,September 2021,0
+Mahindra,Bolero Neo,October 2021,0
+Mahindra,Bolero Neo,November 2021,0
+Mahindra,Bolero Neo,December 2021,5314
+Mahindra,Bolero Neo,January 2022,3506
+Mahindra,Bolero Neo,February 2022,11045
+Mahindra,Bolero Neo,March 2022,6924
+Mahindra,Bolero Neo,April 2022,7686
+Mahindra,KUV100 NXT,July 2021,0
+Mahindra,KUV100 NXT,August 2021,0
+Mahindra,KUV100 NXT,September 2021,0
+Mahindra,KUV100 NXT,October 2021,0
+Mahindra,KUV100 NXT,November 2021,0
+Mahindra,KUV100 NXT,December 2021,0
+Mahindra,KUV100 NXT,January 2022,0
+Mahindra,KUV100 NXT,February 2022,0
+Mahindra,KUV100 NXT,March 2022,0
+Mahindra,KUV100 NXT,April 2022,0
+Mahindra,XUV700 7-Seater,July 2021,0
+Mahindra,XUV700 7-Seater,August 2021,0
+Mahindra,XUV700 7-Seater,September 2021,1370
+Mahindra,XUV700 7-Seater,October 2021,3407
+Mahindra,XUV700 7-Seater,November 2021,3207
+Mahindra,XUV700 7-Seater,December 2021,3980
+Mahindra,XUV700 7-Seater,January 2022,4119
+Mahindra,XUV700 7-Seater,February 2022,4138
+Mahindra,XUV700 7-Seater,March 2022,6040
+Mahindra,XUV700 7-Seater,April 2022,4494
+Maruti Arena,Alto,July 2021,12867
+Maruti Arena,Alto,August 2021,13236
+Maruti Arena,Alto,September 2021,12143
+Maruti Arena,Alto,October 2021,17389
+Maruti Arena,Alto,November 2021,13812
+Maruti Arena,Alto,December 2021,11170
+Maruti Arena,Alto,January 2022,12342
+Maruti Arena,Alto,February 2022,11551
+Maruti Arena,Alto,March 2022,7621
+Maruti Arena,Alto,April 2022,10443
+Maruti Arena,Dzire,July 2021,10470
+Maruti Arena,Dzire,August 2021,5714
+Maruti Arena,Dzire,September 2021,2141
+Maruti Arena,Dzire,October 2021,8077
+Maruti Arena,Dzire,November 2021,8196
+Maruti Arena,Dzire,December 2021,10633
+Maruti Arena,Dzire,January 2022,14967
+Maruti Arena,Dzire,February 2022,17438
+Maruti Arena,Dzire,March 2022,18623
+Maruti Arena,Dzire,April 2022,10701
+Maruti Arena,Eeco,July 2021,10057
+Maruti Arena,Eeco,August 2021,10666
+Maruti Arena,Eeco,September 2021,7844
+Maruti Arena,Eeco,October 2021,10320
+Maruti Arena,Eeco,November 2021,9571
+Maruti Arena,Eeco,December 2021,9167
+Maruti Arena,Eeco,January 2022,10528
+Maruti Arena,Eeco,February 2022,9190
+Maruti Arena,Eeco,March 2022,9221
+Maruti Arena,Eeco,April 2022,11154
+Maruti Arena,S Presso,July 2021,6818
+Maruti Arena,S Presso,August 2021,7225
+Maruti Arena,S Presso,September 2021,2793
+Maruti Arena,S Presso,October 2021,4442
+Maruti Arena,S Presso,November 2021,3661
+Maruti Arena,S Presso,December 2021,5150
+Maruti Arena,S Presso,January 2022,6292
+Maruti Arena,S Presso,February 2022,8140
+Maruti Arena,S Presso,March 2022,7870
+Maruti Arena,S Presso,April 2022,6694
+Maruti Arena,Swift,July 2021,18434
+Maruti Arena,Swift,August 2021,12483
+Maruti Arena,Swift,September 2021,2520
+Maruti Arena,Swift,October 2021,9180
+Maruti Arena,Swift,November 2021,14568
+Maruti Arena,Swift,December 2021,15661
+Maruti Arena,Swift,January 2022,19108
+Maruti Arena,Swift,February 2022,19202
+Maruti Arena,Swift,March 2022,13623
+Maruti Arena,Swift,April 2022,8898
+Maruti Arena,Vitara Brezza,July 2021,12676
+Maruti Arena,Vitara Brezza,August 2021,12906
+Maruti Arena,Vitara Brezza,September 2021,1874
+Maruti Arena,Vitara Brezza,October 2021,8032
+Maruti Arena,Vitara Brezza,November 2021,10760
+Maruti Arena,Vitara Brezza,December 2021,9531
+Maruti Arena,Vitara Brezza,January 2022,9576
+Maruti Arena,Vitara Brezza,February 2022,9256
+Maruti Arena,Vitara Brezza,March 2022,12439
+Maruti Arena,Vitara Brezza,April 2022,11764
+Maruti Arena,Celerio,July 2021,2
+Maruti Arena,Celerio,August 2021,53
+Maruti Arena,Celerio,September 2021,0
+Maruti Arena,Celerio,October 2021,1999
+Maruti Arena,Celerio,November 2021,5968
+Maruti Arena,Celerio,December 2021,5656
+Maruti Arena,Celerio,January 2022,8279
+Maruti Arena,Celerio,February 2022,9896
+Maruti Arena,Celerio,March 2022,6442
+Maruti Arena,Celerio,April 2022,7066
+Maruti Arena,WagonR,July 2021,0
+Maruti Arena,WagonR,August 2021,0
+Maruti Arena,WagonR,September 2021,0
+Maruti Arena,WagonR,October 2021,0
+Maruti Arena,WagonR,November 2021,0
+Maruti Arena,WagonR,December 2021,0
+Maruti Arena,WagonR,January 2022,0
+Maruti Arena,WagonR,February 2022,14669
+Maruti Arena,WagonR,March 2022,24634
+Maruti Arena,WagonR,April 2022,17766
+Maruti Arena,Ertiga,July 2021,0
+Maruti Arena,Ertiga,August 2021,0
+Maruti Arena,Ertiga,September 2021,0
+Maruti Arena,Ertiga,October 2021,0
+Maruti Arena,Ertiga,November 2021,0
+Maruti Arena,Ertiga,December 2021,0
+Maruti Arena,Ertiga,January 2022,0
+Maruti Arena,Ertiga,February 2022,0
+Maruti Arena,Ertiga,March 2022,0
+Maruti Arena,Ertiga,April 2022,14889
+Maruti Nexa,Ciaz,July 2021,1450
+Maruti Nexa,Ciaz,August 2021,2146
+Maruti Nexa,Ciaz,September 2021,981
+Maruti Nexa,Ciaz,October 2021,1069
+Maruti Nexa,Ciaz,November 2021,1089
+Maruti Nexa,Ciaz,December 2021,1204
+Maruti Nexa,Ciaz,January 2022,1666
+Maruti Nexa,Ciaz,February 2022,1912
+Maruti Nexa,Ciaz,March 2022,1834
+Maruti Nexa,Ciaz,April 2022,579
+Maruti Nexa,Ignis,July 2021,3797
+Maruti Nexa,Ignis,August 2021,2053
+Maruti Nexa,Ignis,September 2021,522
+Maruti Nexa,Ignis,October 2021,1526
+Maruti Nexa,Ignis,November 2021,1499
+Maruti Nexa,Ignis,December 2021,3209
+Maruti Nexa,Ignis,January 2022,1993
+Maruti Nexa,Ignis,February 2022,4020
+Maruti Nexa,Ignis,March 2022,4472
+Maruti Nexa,Ignis,April 2022,3815
+Maruti Nexa,S Cross,July 2021,1972
+Maruti Nexa,S Cross,August 2021,2522
+Maruti Nexa,S Cross,September 2021,1529
+Maruti Nexa,S Cross,October 2021,1524
+Maruti Nexa,S Cross,November 2021,1782
+Maruti Nexa,S Cross,December 2021,1521
+Maruti Nexa,S Cross,January 2022,2116
+Maruti Nexa,S Cross,February 2022,1151
+Maruti Nexa,S Cross,March 2022,2674
+Maruti Nexa,S Cross,April 2022,2922
+Maruti Nexa,Baleno,July 2021,0
+Maruti Nexa,Baleno,August 2021,0
+Maruti Nexa,Baleno,September 2021,0
+Maruti Nexa,Baleno,October 2021,0
+Maruti Nexa,Baleno,November 2021,0
+Maruti Nexa,Baleno,December 2021,0
+Maruti Nexa,Baleno,January 2022,0
+Maruti Nexa,Baleno,February 2022,12570
+Maruti Nexa,Baleno,March 2022,14520
+Maruti Nexa,Baleno,April 2022,10938
+Maruti Nexa,XL6,July 2021,0
+Maruti Nexa,XL6,August 2021,0
+Maruti Nexa,XL6,September 2021,0
+Maruti Nexa,XL6,October 2021,0
+Maruti Nexa,XL6,November 2021,0
+Maruti Nexa,XL6,December 2021,0
+Maruti Nexa,XL6,January 2022,0
+Maruti Nexa,XL6,February 2022,0
+Maruti Nexa,XL6,March 2022,0
+Maruti Nexa,XL6,April 2022,4366
+Tata,Harrier,July 2021,2666
+Tata,Harrier,August 2021,2743
+Tata,Harrier,September 2021,2821
+Tata,Harrier,October 2021,3097
+Tata,Harrier,November 2021,2607
+Tata,Harrier,December 2021,2234
+Tata,Harrier,January 2022,2702
+Tata,Harrier,February 2022,2619
+Tata,Harrier,March 2022,2491
+Tata,Harrier,April 2022,2785
+Tata,Nexon,July 2021,10287
+Tata,Nexon,August 2021,10006
+Tata,Nexon,September 2021,9211
+Tata,Nexon,October 2021,10096
+Tata,Nexon,November 2021,9831
+Tata,Nexon,December 2021,12899
+Tata,Nexon,January 2022,13816
+Tata,Nexon,February 2022,12259
+Tata,Nexon,March 2022,14315
+Tata,Nexon,April 2022,13471
+Tata,Tiago,July 2021,6794
+Tata,Tiago,August 2021,6558
+Tata,Tiago,September 2021,5121
+Tata,Tiago,October 2021,4040
+Tata,Tiago,November 2021,4998
+Tata,Tiago,December 2021,3675
+Tata,Tiago,January 2022,5195
+Tata,Tiago,February 2022,4489
+Tata,Tiago,March 2022,4002
+Tata,Tiago,April 2022,5062
+Tata,Altroz,July 2021,6980
+Tata,Altroz,August 2021,6175
+Tata,Altroz,September 2021,5772
+Tata,Altroz,October 2021,5128
+Tata,Altroz,November 2021,3025
+Tata,Altroz,December 2021,5009
+Tata,Altroz,January 2022,4525
+Tata,Altroz,February 2022,5011
+Tata,Altroz,March 2022,4727
+Tata,Altroz,April 2022,4266
+Tata,Tigor,July 2021,1636
+Tata,Tigor,August 2021,1673
+Tata,Tigor,September 2021,1304
+Tata,Tigor,October 2021,1377
+Tata,Tigor,November 2021,1785
+Tata,Tigor,December 2021,1994
+Tata,Tigor,January 2022,2952
+Tata,Tigor,February 2022,4091
+Tata,Tigor,March 2022,4007
+Tata,Tigor,April 2022,3803
+Tata,Safari,July 2021,1821
+Tata,Safari,August 2021,1762
+Tata,Safari,September 2021,1500
+Tata,Safari,October 2021,1735
+Tata,Safari,November 2021,1424
+Tata,Safari,December 2021,1481
+Tata,Safari,January 2022,1563
+Tata,Safari,February 2022,1919
+Tata,Safari,March 2022,2227
+Tata,Safari,April 2022,2071
+Tata,Nexon EV,July 2021,0
+Tata,Nexon EV,August 2021,0
+Tata,Nexon EV,September 2021,0
+Tata,Nexon EV,October 2021,0
+Tata,Nexon EV,November 2021,0
+Tata,Nexon EV,December 2021,0
+Tata,Nexon EV,January 2022,0
+Tata,Nexon EV,February 2022,0
+Tata,Nexon EV,March 2022,0
+Tata,Nexon EV,April 2022,0
+Tata,Punch,July 2021,0
+Tata,Punch,August 2021,0
+Tata,Punch,September 2021,0
+Tata,Punch,October 2021,8453
+Tata,Punch,November 2021,6110
+Tata,Punch,December 2021,8008
+Tata,Punch,January 2022,10027
+Tata,Punch,February 2022,9592
+Tata,Punch,March 2022,10526
+Tata,Punch,April 2022,10132
+Tata,Tiago NRG,July 2021,0
+Tata,Tiago NRG,August 2021,0
+Tata,Tiago NRG,September 2021,0
+Tata,Tiago NRG,October 2021,0
+Tata,Tiago NRG,November 2021,0
+Tata,Tiago NRG,December 2021,0
+Tata,Tiago NRG,January 2022,0
+Tata,Tiago NRG,February 2022,0
+Tata,Tiago NRG,March 2022,0
+Tata,Tiago NRG,April 2022,0
+Tata,Tigor EV,July 2021,0
+Tata,Tigor EV,August 2021,0
+Tata,Tigor EV,September 2021,0
+Tata,Tigor EV,October 2021,0
+Tata,Tigor EV,November 2021,0
+Tata,Tigor EV,December 2021,0
+Tata,Tigor EV,January 2022,0
+Tata,Tigor EV,February 2022,0
+Tata,Tigor EV,March 2022,0
+Tata,Tigor EV,April 2022,0
+Tata,Yodha Pickup,July 2021,0
+Tata,Yodha Pickup,August 2021,0
+Tata,Yodha Pickup,September 2021,0
+Tata,Yodha Pickup,October 2021,0
+Tata,Yodha Pickup,November 2021,0
+Tata,Yodha Pickup,December 2021,0
+Tata,Yodha Pickup,January 2022,0
+Tata,Yodha Pickup,February 2022,0
+Tata,Yodha Pickup,March 2022,0
+Tata,Yodha Pickup,April 2022,0
+Tata,Nexon EV Max,July 2021,0
+Tata,Nexon EV Max,August 2021,0
+Tata,Nexon EV Max,September 2021,0
+Tata,Nexon EV Max,October 2021,0
+Tata,Nexon EV Max,November 2021,0
+Tata,Nexon EV Max,December 2021,0
+Tata,Nexon EV Max,January 2022,0
+Tata,Nexon EV Max,February 2022,0
+Tata,Nexon EV Max,March 2022,0
+Tata,Nexon EV Max,April 2022,0
+Hyundai,Creta,July 2021,13000
+Hyundai,Creta,August 2021,12597
+Hyundai,Creta,September 2021,8193
+Hyundai,Creta,October 2021,6455
+Hyundai,Creta,November 2021,10300
+Hyundai,Creta,December 2021,7609
+Hyundai,Creta,January 2022,9869
+Hyundai,Creta,February 2022,9606
+Hyundai,Creta,March 2022,10532
+Hyundai,Creta,April 2022,12651
+Hyundai,Elantra,July 2021,15
+Hyundai,Elantra,August 2021,20
+Hyundai,Elantra,September 2021,41
+Hyundai,Elantra,October 2021,11
+Hyundai,Elantra,November 2021,0
+Hyundai,Elantra,December 2021,0
+Hyundai,Elantra,January 2022,0
+Hyundai,Elantra,February 2022,0
+Hyundai,Elantra,March 2022,0
+Hyundai,Elantra,April 2022,0
+Hyundai,i20,July 2021,6518
+Hyundai,i20,August 2021,7340
+Hyundai,i20,September 2021,5153
+Hyundai,i20,October 2021,4414
+Hyundai,i20,November 2021,4391
+Hyundai,i20,December 2021,3150
+Hyundai,i20,January 2022,6509
+Hyundai,i20,February 2022,5830
+Hyundai,i20,March 2022,4693
+Hyundai,i20,April 2022,4707
+Hyundai,Grand i10 Nios,July 2021,9379
+Hyundai,Grand i10 Nios,August 2021,8023
+Hyundai,Grand i10 Nios,September 2021,4168
+Hyundai,Grand i10 Nios,October 2021,6042
+Hyundai,Grand i10 Nios,November 2021,5466
+Hyundai,Grand i10 Nios,December 2021,6151
+Hyundai,Grand i10 Nios,January 2022,6841
+Hyundai,Grand i10 Nios,February 2022,8552
+Hyundai,Grand i10 Nios,March 2022,9687
+Hyundai,Grand i10 Nios,April 2022,9123
+Hyundai,Kona Electric,July 2021,23
+Hyundai,Kona Electric,August 2021,1
+Hyundai,Kona Electric,September 2021,1
+Hyundai,Kona Electric,October 2021,18
+Hyundai,Kona Electric,November 2021,0
+Hyundai,Kona Electric,December 2021,10
+Hyundai,Kona Electric,January 2022,7
+Hyundai,Kona Electric,February 2022,43
+Hyundai,Kona Electric,March 2022,2
+Hyundai,Kona Electric,April 2022,50
+Hyundai,Santro,July 2021,1949
+Hyundai,Santro,August 2021,1731
+Hyundai,Santro,September 2021,1798
+Hyundai,Santro,October 2021,2877
+Hyundai,Santro,November 2021,2141
+Hyundai,Santro,December 2021,1298
+Hyundai,Santro,January 2022,1252
+Hyundai,Santro,February 2022,2393
+Hyundai,Santro,March 2022,2494
+Hyundai,Santro,April 2022,1793
+Hyundai,Tucson,July 2021,111
+Hyundai,Tucson,August 2021,117
+Hyundai,Tucson,September 2021,139
+Hyundai,Tucson,October 2021,119
+Hyundai,Tucson,November 2021,108
+Hyundai,Tucson,December 2021,35
+Hyundai,Tucson,January 2022,48
+Hyundai,Tucson,February 2022,172
+Hyundai,Tucson,March 2022,109
+Hyundai,Tucson,April 2022,47
+Hyundai,Venue,July 2021,8185
+Hyundai,Venue,August 2021,8377
+Hyundai,Venue,September 2021,7924
+Hyundai,Venue,October 2021,10554
+Hyundai,Venue,November 2021,7932
+Hyundai,Venue,December 2021,10360
+Hyundai,Venue,January 2022,11377
+Hyundai,Venue,February 2022,10212
+Hyundai,Venue,March 2022,9220
+Hyundai,Venue,April 2022,8392
+Hyundai,Verna,July 2021,1827
+Hyundai,Verna,August 2021,2098
+Hyundai,Verna,September 2021,879
+Hyundai,Verna,October 2021,2438
+Hyundai,Verna,November 2021,1648
+Hyundai,Verna,December 2021,982
+Hyundai,Verna,January 2022,1622
+Hyundai,Verna,February 2022,1058
+Hyundai,Verna,March 2022,1286
+Hyundai,Verna,April 2022,781
+Hyundai,Xcent Prime,July 2021,4034
+Hyundai,Xcent Prime,August 2021,3094
+Hyundai,Xcent Prime,September 2021,2862
+Hyundai,Xcent Prime,October 2021,2701
+Hyundai,Xcent Prime,November 2021,2562
+Hyundai,Xcent Prime,December 2021,1715
+Hyundai,Xcent Prime,January 2022,3333
+Hyundai,Xcent Prime,February 2022,3668
+Hyundai,Xcent Prime,March 2022,3775
+Hyundai,Xcent Prime,April 2022,4035
+Hyundai,Aura,July 2021,4034
+Hyundai,Aura,August 2021,3094
+Hyundai,Aura,September 2021,2862
+Hyundai,Aura,October 2021,0
+Hyundai,Aura,November 2021,2562
+Hyundai,Aura,December 2021,1715
+Hyundai,Aura,January 2022,3333
+Hyundai,Aura,February 2022,3668
+Hyundai,Aura,March 2022,3775
+Hyundai,Aura,April 2022,4035
+Hyundai,Alcazar,July 2021,3001
+Hyundai,Alcazar,August 2021,3468
+Hyundai,Alcazar,September 2021,1929
+Hyundai,Alcazar,October 2021,1392
+Hyundai,Alcazar,November 2021,2453
+Hyundai,Alcazar,December 2021,1002
+Hyundai,Alcazar,January 2022,3168
+Hyundai,Alcazar,February 2022,2516
+Hyundai,Alcazar,March 2022,2502
+Hyundai,Alcazar,April 2022,2422
+Hyundai,i20 N Line,July 2021,0
+Hyundai,i20 N Line,August 2021,0
+Hyundai,i20 N Line,September 2021,0
+Hyundai,i20 N Line,October 2021,0
+Hyundai,i20 N Line,November 2021,0
+Hyundai,i20 N Line,December 2021,0
+Hyundai,i20 N Line,January 2022,0
+Hyundai,i20 N Line,February 2022,0
+Hyundai,i20 N Line,March 2022,0
+Hyundai,i20 N Line,April 2022,0
+Honda,Amaze,July 2021,1134
+Honda,Amaze,August 2021,6591
+Honda,Amaze,September 2021,2063
+Honda,Amaze,October 2021,3009
+Honda,Amaze,November 2021,2344
+Honda,Amaze,December 2021,3659
+Honda,Amaze,January 2022,5395
+Honda,Amaze,February 2022,3405
+Honda,Amaze,March 2022,2988
+Honda,Amaze,April 2022,4467
+Honda,City,July 2021,3627
+Honda,City,August 2021,3284
+Honda,City,September 2021,3348
+Honda,City,October 2021,3611
+Honda,City,November 2021,2666
+Honda,City,December 2021,3743
+Honda,City,January 2022,3950
+Honda,City,February 2022,2836
+Honda,City,March 2022,3225
+Honda,City,April 2022,2300
+Honda,Jazz,July 2021,586
+Honda,Jazz,August 2021,630
+Honda,Jazz,September 2021,667
+Honda,Jazz,October 2021,760
+Honda,Jazz,November 2021,327
+Honda,Jazz,December 2021,486
+Honda,Jazz,January 2022,588
+Honda,Jazz,February 2022,457
+Honda,Jazz,March 2022,125
+Honda,Jazz,April 2022,472
+Honda,WRV,July 2021,708
+Honda,WRV,August 2021,672
+Honda,WRV,September 2021,687
+Honda,WRV,October 2021,728
+Honda,WRV,November 2021,120
+Honda,WRV,December 2021,85
+Honda,WRV,January 2022,494
+Honda,WRV,February 2022,489
+Honda,WRV,March 2022,251
+Honda,WRV,April 2022,635
+Honda,City 4th Gen,July 2021,0
+Honda,City 4th Gen,August 2021,0
+Honda,City 4th Gen,September 2021,0
+Honda,City 4th Gen,October 2021,0
+Honda,City 4th Gen,November 2021,0
+Honda,City 4th Gen,December 2021,0
+Honda,City 4th Gen,January 2022,0
+Honda,City 4th Gen,February 2022,0
+Honda,City 4th Gen,March 2022,0
+Honda,City 4th Gen,April 2022,0
+Honda,City Hybrid,July 2021,0
+Honda,City Hybrid,August 2021,0
+Honda,City Hybrid,September 2021,0
+Honda,City Hybrid,October 2021,0
+Honda,City Hybrid,November 2021,0
+Honda,City Hybrid,December 2021,0
+Honda,City Hybrid,January 2022,0
+Honda,City Hybrid,February 2022,0
+Honda,City Hybrid,March 2022,0
+Honda,City Hybrid,April 2022,0
+Toyota,Urban Cruiser,July 2021,2448
+Toyota,Urban Cruiser,August 2021,2654
+Toyota,Urban Cruiser,September 2021,816
+Toyota,Urban Cruiser,October 2021,2100
+Toyota,Urban Cruiser,November 2021,2850
+Toyota,Urban Cruiser,December 2021,2359
+Toyota,Urban Cruiser,January 2022,2590
+Toyota,Urban Cruiser,February 2022,2387
+Toyota,Urban Cruiser,March 2022,3079
+Toyota,Urban Cruiser,April 2022,3524
+Toyota,Camry,July 2021,101
+Toyota,Camry,August 2021,87
+Toyota,Camry,September 2021,59
+Toyota,Camry,October 2021,72
+Toyota,Camry,November 2021,51
+Toyota,Camry,December 2021,1
+Toyota,Camry,January 2022,141
+Toyota,Camry,February 2022,161
+Toyota,Camry,March 2022,120
+Toyota,Camry,April 2022,129
+Toyota,Fortuner,July 2021,1789
+Toyota,Fortuner,August 2021,2387
+Toyota,Fortuner,September 2021,1869
+Toyota,Fortuner,October 2021,1893
+Toyota,Fortuner,November 2021,1844
+Toyota,Fortuner,December 2021,1827
+Toyota,Fortuner,January 2022,811
+Toyota,Fortuner,February 2022,1848
+Toyota,Fortuner,March 2022,2984
+Toyota,Fortuner,April 2022,2022
+Toyota,Innova Crysta,July 2021,6093
+Toyota,Innova Crysta,August 2021,5755
+Toyota,Innova Crysta,September 2021,4724
+Toyota,Innova Crysta,October 2021,6096
+Toyota,Innova Crysta,November 2021,6300
+Toyota,Innova Crysta,December 2021,3989
+Toyota,Innova Crysta,January 2022,2433
+Toyota,Innova Crysta,February 2022,4318
+Toyota,Innova Crysta,March 2022,7917
+Toyota,Innova Crysta,April 2022,6351
+Toyota,Vellfire,July 2021,31
+Toyota,Vellfire,August 2021,54
+Toyota,Vellfire,September 2021,52
+Toyota,Vellfire,October 2021,77
+Toyota,Vellfire,November 2021,53
+Toyota,Vellfire,December 2021,23
+Toyota,Vellfire,January 2022,6
+Toyota,Vellfire,February 2022,31
+Toyota,Vellfire,March 2022,0
+Toyota,Vellfire,April 2022,105
+Toyota,Hilux,July 2021,0
+Toyota,Hilux,August 2021,0
+Toyota,Hilux,September 2021,0
+Toyota,Hilux,October 2021,0
+Toyota,Hilux,November 2021,0
+Toyota,Hilux,December 2021,0
+Toyota,Hilux,January 2022,0
+Toyota,Hilux,February 2022,0
+Toyota,Hilux,March 2022,0
+Toyota,Hilux,April 2022,308
+Toyota,Glanza,July 2021,0
+Toyota,Glanza,August 2021,0
+Toyota,Glanza,September 2021,0
+Toyota,Glanza,October 2021,0
+Toyota,Glanza,November 2021,0
+Toyota,Glanza,December 2021,0
+Toyota,Glanza,January 2022,0
+Toyota,Glanza,February 2022,0
+Toyota,Glanza,March 2022,2987
+Toyota,Glanza,April 2022,2646
+Renault,Duster,July 2021,128
+Renault,Duster,August 2021,153
+Renault,Duster,September 2021,275
+Renault,Duster,October 2021,786
+Renault,Duster,November 2021,221
+Renault,Duster,December 2021,56
+Renault,Duster,January 2022,0
+Renault,Duster,February 2022,0
+Renault,Duster,March 2022,0
+Renault,Duster,April 2022,0
+Renault,Triber,July 2021,2815
+Renault,Triber,August 2021,3912
+Renault,Triber,September 2021,2029
+Renault,Triber,October 2021,2758
+Renault,Triber,November 2021,1843
+Renault,Triber,December 2021,2901
+Renault,Triber,January 2022,2722
+Renault,Triber,February 2022,2397
+Renault,Triber,March 2022,3561
+Renault,Triber,April 2022,2910
+Renault,Kiger,July 2021,3557
+Renault,Kiger,August 2021,2669
+Renault,Kiger,September 2021,2312
+Renault,Kiger,October 2021,2643
+Renault,Kiger,November 2021,2062
+Renault,Kiger,December 2021,2117
+Renault,Kiger,January 2022,3053
+Renault,Kiger,February 2022,2247
+Renault,Kiger,March 2022,2496
+Renault,Kiger,April 2022,2618
+Renault,Kwid,July 2021,0
+Renault,Kwid,August 2021,0
+Renault,Kwid,September 2021,0
+Renault,Kwid,October 2021,0
+Renault,Kwid,November 2021,0
+Renault,Kwid,December 2021,0
+Renault,Kwid,January 2022,0
+Renault,Kwid,February 2022,0
+Renault,Kwid,March 2022,2461
+Renault,Kwid,April 2022,2066
+Volkswagen,Polo,July 2021,1616
+Volkswagen,Polo,August 2021,1306
+Volkswagen,Polo,September 2021,799
+Volkswagen,Polo,October 2021,319
+Volkswagen,Polo,November 2021,97
+Volkswagen,Polo,December 2021,762
+Volkswagen,Polo,January 2022,891
+Volkswagen,Polo,February 2022,1233
+Volkswagen,Polo,March 2022,1086
+Volkswagen,Polo,April 2022,728
+Volkswagen,Polo GT,July 2021,0
+Volkswagen,Polo GT,August 2021,0
+Volkswagen,Polo GT,September 2021,0
+Volkswagen,Polo GT,October 2021,0
+Volkswagen,Polo GT,November 2021,0
+Volkswagen,Polo GT,December 2021,0
+Volkswagen,Polo GT,January 2022,0
+Volkswagen,Polo GT,February 2022,0
+Volkswagen,Polo GT,March 2022,0
+Volkswagen,Polo GT,April 2022,0
+Volkswagen,Vento,July 2021,186
+Volkswagen,Vento,August 2021,175
+Volkswagen,Vento,September 2021,161
+Volkswagen,Vento,October 2021,127
+Volkswagen,Vento,November 2021,107
+Volkswagen,Vento,December 2021,70
+Volkswagen,Vento,January 2022,139
+Volkswagen,Vento,February 2022,277
+Volkswagen,Vento,March 2022,175
+Volkswagen,Vento,April 2022,57
+Volkswagen,Taigun,July 2021,0
+Volkswagen,Taigun,August 2021,0
+Volkswagen,Taigun,September 2021,1461
+Volkswagen,Taigun,October 2021,2551
+Volkswagen,Taigun,November 2021,2841
+Volkswagen,Taigun,December 2021,2828
+Volkswagen,Taigun,January 2022,2432
+Volkswagen,Taigun,February 2022,2388
+Volkswagen,Taigun,March 2022,2380
+Volkswagen,Taigun,April 2022,2631
+Volkswagen,Tiguan,July 2021,0
+Volkswagen,Tiguan,August 2021,0
+Volkswagen,Tiguan,September 2021,0
+Volkswagen,Tiguan,October 2021,0
+Volkswagen,Tiguan,November 2021,0
+Volkswagen,Tiguan,December 2021,40
+Volkswagen,Tiguan,January 2022,61
+Volkswagen,Tiguan,February 2022,130
+Volkswagen,Tiguan,March 2022,31
+Volkswagen,Tiguan,April 2022,131
+Skoda,Rapid,July 2021,793
+Skoda,Rapid,August 2021,595
+Skoda,Rapid,September 2021,473
+Skoda,Rapid,October 2021,165
+Skoda,Rapid,November 2021,22
+Skoda,Rapid,December 2021,158
+Skoda,Rapid,January 2022,0
+Skoda,Rapid,February 2022,0
+Skoda,Rapid,March 2022,0
+Skoda,Rapid,April 2022,0
+Skoda,Octavia,July 2021,219
+Skoda,Octavia,August 2021,150
+Skoda,Octavia,September 2021,186
+Skoda,Octavia,October 2021,219
+Skoda,Octavia,November 2021,194
+Skoda,Octavia,December 2021,164
+Skoda,Octavia,January 2022,166
+Skoda,Octavia,February 2022,168
+Skoda,Octavia,March 2022,180
+Skoda,Octavia,April 2022,147
+Skoda,Superb,July 2021,246
+Skoda,Superb,August 2021,180
+Skoda,Superb,September 2021,210
+Skoda,Superb,October 2021,251
+Skoda,Superb,November 2021,104
+Skoda,Superb,December 2021,16
+Skoda,Superb,January 2022,122
+Skoda,Superb,February 2022,99
+Skoda,Superb,March 2022,180
+Skoda,Superb,April 2022,74
+Skoda,Kodiaq,July 2021,0
+Skoda,Kodiaq,August 2021,0
+Skoda,Kodiaq,September 2021,0
+Skoda,Kodiaq,October 2021,0
+Skoda,Kodiaq,November 2021,0
+Skoda,Kodiaq,December 2021,55
+Skoda,Kodiaq,January 2022,113
+Skoda,Kodiaq,February 2022,67
+Skoda,Kodiaq,March 2022,125
+Skoda,Kodiaq,April 2022,87
+Skoda,Kushaq,July 2021,1822
+Skoda,Kushaq,August 2021,2904
+Skoda,Kushaq,September 2021,2158
+Skoda,Kushaq,October 2021,2413
+Skoda,Kushaq,November 2021,1876
+Skoda,Kushaq,December 2021,2840
+Skoda,Kushaq,January 2022,2608
+Skoda,Kushaq,February 2022,2307
+Skoda,Kushaq,March 2022,2499
+Skoda,Kushaq,April 2022,2413
+Skoda,Slavia,July 2021,0
+Skoda,Slavia,August 2021,0
+Skoda,Slavia,September 2021,0
+Skoda,Slavia,October 2021,0
+Skoda,Slavia,November 2021,0
+Skoda,Slavia,December 2021,0
+Skoda,Slavia,January 2022,0
+Skoda,Slavia,February 2022,1862
+Skoda,Slavia,March 2022,2665
+Skoda,Slavia,April 2022,2431
+MG,Hector,July 2021,3565
+MG,Hector,August 2021,3276
+MG,Hector,September 2021,2722
+MG,Hector,October 2021,2478
+MG,Hector,November 2021,1210
+MG,Hector,December 2021,1215
+MG,Hector,January 2022,2039
+MG,Hector,February 2022,2102
+MG,Hector,March 2022,2019
+MG,Hector,April 2022,1448
+MG,Hector Plus,July 2021,3565
+MG,Hector Plus,August 2021,3276
+MG,Hector Plus,September 2021,2722
+MG,Hector Plus,October 2021,2478
+MG,Hector Plus,November 2021,1210
+MG,Hector Plus,December 2021,1215
+MG,Hector Plus,January 2022,2039
+MG,Hector Plus,February 2022,2102
+MG,Hector Plus,March 2022,2019
+MG,Hector Plus,April 2022,1448
+MG,Gloster,July 2021,363
+MG,Gloster,August 2021,351
+MG,Gloster,September 2021,292
+MG,Gloster,October 2021,260
+MG,Gloster,November 2021,102
+MG,Gloster,December 2021,108
+MG,Gloster,January 2022,143
+MG,Gloster,February 2022,151
+MG,Gloster,March 2022,152
+MG,Gloster,April 2022,83
+MG,Astor,July 2021,0
+MG,Astor,August 2021,0
+MG,Astor,September 2021,0
+MG,Astor,October 2021,0
+MG,Astor,November 2021,1018
+MG,Astor,December 2021,1125
+MG,Astor,January 2022,2068
+MG,Astor,February 2022,2275
+MG,Astor,March 2022,2248
+MG,Astor,April 2022,249
+MG,ZS EV Facelift,July 2021,0
+MG,ZS EV Facelift,August 2021,0
+MG,ZS EV Facelift,September 2021,0
+MG,ZS EV Facelift,October 2021,0
+MG,ZS EV Facelift,November 2021,0
+MG,ZS EV Facelift,December 2021,0
+MG,ZS EV Facelift,January 2022,0
+MG,ZS EV Facelift,February 2022,0
+MG,ZS EV Facelift,March 2022,0
+MG,ZS EV Facelift,April 2022,0
+Kia,Seltos,July 2021,6983
+Kia,Seltos,August 2021,8619
+Kia,Seltos,September 2021,9583
+Kia,Seltos,October 2021,10488
+Kia,Seltos,November 2021,8859
+Kia,Seltos,December 2021,4012
+Kia,Seltos,January 2022,11483
+Kia,Seltos,February 2022,6575
+Kia,Seltos,March 2022,8415
+Kia,Seltos,April 2022,7506
+Kia,Carnival,July 2021,358
+Kia,Carnival,August 2021,379
+Kia,Carnival,September 2021,404
+Kia,Carnival,October 2021,400
+Kia,Carnival,November 2021,636
+Kia,Carnival,December 2021,207
+Kia,Carnival,January 2022,357
+Kia,Carnival,February 2022,283
+Kia,Carnival,March 2022,328
+Kia,Carnival,April 2022,355
+Kia,Sonet,July 2021,7675
+Kia,Sonet,August 2021,7752
+Kia,Sonet,September 2021,4454
+Kia,Sonet,October 2021,5443
+Kia,Sonet,November 2021,4719
+Kia,Sonet,December 2021,3578
+Kia,Sonet,January 2022,6904
+Kia,Sonet,February 2022,6154
+Kia,Sonet,March 2022,6871
+Kia,Sonet,April 2022,5404
+Kia,Carens,July 2021,0
+Kia,Carens,August 2021,0
+Kia,Carens,September 2021,0
+Kia,Carens,October 2021,0
+Kia,Carens,November 2021,0
+Kia,Carens,December 2021,0
+Kia,Carens,January 2022,0
+Kia,Carens,February 2022,5109
+Kia,Carens,March 2022,7008
+Kia,Carens,April 2022,5754
+Jeep,Compass Trailhawk,July 2021,0
+Jeep,Compass Trailhawk,August 2021,0
+Jeep,Compass Trailhawk,September 2021,0
+Jeep,Compass Trailhawk,October 2021,0
+Jeep,Compass Trailhawk,November 2021,0
+Jeep,Compass Trailhawk,December 2021,0
+Jeep,Compass Trailhawk,January 2022,0
+Jeep,Compass Trailhawk,February 2022,0
+Jeep,Compass Trailhawk,March 2022,0
+Jeep,Compass Trailhawk,April 2022,0
+Jeep,Wrangler,July 2021,0
+Jeep,Wrangler,August 2021,0
+Jeep,Wrangler,September 2021,0
+Jeep,Wrangler,October 2021,0
+Jeep,Wrangler,November 2021,0
+Jeep,Wrangler,December 2021,0
+Jeep,Wrangler,January 2022,0
+Jeep,Wrangler,February 2022,0
+Jeep,Wrangler,March 2022,0
+Jeep,Wrangler,April 2022,0
+Jeep,Compass,July 2021,909
+Jeep,Compass,August 2021,1173
+Jeep,Compass,September 2021,1311
+Jeep,Compass,October 2021,1324
+Jeep,Compass,November 2021,1052
+Jeep,Compass,December 2021,916
+Jeep,Compass,January 2022,861
+Jeep,Compass,February 2022,1020
+Jeep,Compass,March 2022,1273
+Jeep,Compass,April 2022,886
+Jeep,Meridian,July 2021,0
+Jeep,Meridian,August 2021,0
+Jeep,Meridian,September 2021,0
+Jeep,Meridian,October 2021,0
+Jeep,Meridian,November 2021,0
+Jeep,Meridian,December 2021,0
+Jeep,Meridian,January 2022,0
+Jeep,Meridian,February 2022,0
+Jeep,Meridian,March 2022,0
+Jeep,Meridian,April 2022,0
+Isuzu,V-Cross,July 2021,0
+Isuzu,V-Cross,August 2021,0
+Isuzu,V-Cross,September 2021,0
+Isuzu,V-Cross,October 2021,0
+Isuzu,V-Cross,November 2021,0
+Isuzu,V-Cross,December 2021,0
+Isuzu,V-Cross,January 2022,0
+Isuzu,V-Cross,February 2022,0
+Isuzu,V-Cross,March 2022,0
+Isuzu,V-Cross,April 2022,0
+Isuzu,MUX,July 2021,0
+Isuzu,MUX,August 2021,0
+Isuzu,MUX,September 2021,0
+Isuzu,MUX,October 2021,0
+Isuzu,MUX,November 2021,0
+Isuzu,MUX,December 2021,0
+Isuzu,MUX,January 2022,0
+Isuzu,MUX,February 2022,0
+Isuzu,MUX,March 2022,0
+Isuzu,MUX,April 2022,0
+Isuzu,D-MAX,July 2021,0
+Isuzu,D-MAX,August 2021,0
+Isuzu,D-MAX,September 2021,0
+Isuzu,D-MAX,October 2021,0
+Isuzu,D-MAX,November 2021,0
+Isuzu,D-MAX,December 2021,0
+Isuzu,D-MAX,January 2022,0
+Isuzu,D-MAX,February 2022,0
+Isuzu,D-MAX,March 2022,0
+Isuzu,D-MAX,April 2022,0
+Isuzu,S-CAB,July 2021,0
+Isuzu,S-CAB,August 2021,0
+Isuzu,S-CAB,September 2021,0
+Isuzu,S-CAB,October 2021,0
+Isuzu,S-CAB,November 2021,0
+Isuzu,S-CAB,December 2021,0
+Isuzu,S-CAB,January 2022,0
+Isuzu,S-CAB,February 2022,0
+Isuzu,S-CAB,March 2022,0
+Isuzu,S-CAB,April 2022,0
+Isuzu,Hi-Lander,July 2021,0
+Isuzu,Hi-Lander,August 2021,0
+Isuzu,Hi-Lander,September 2021,0
+Isuzu,Hi-Lander,October 2021,0
+Isuzu,Hi-Lander,November 2021,0
+Isuzu,Hi-Lander,December 2021,0
+Isuzu,Hi-Lander,January 2022,0
+Isuzu,Hi-Lander,February 2022,0
+Isuzu,Hi-Lander,March 2022,0
+Isuzu,Hi-Lander,April 2022,0
+Nissan,GT-R,July 2021,0
+Nissan,GT-R,August 2021,0
+Nissan,GT-R,September 2021,0
+Nissan,GT-R,October 2021,0
+Nissan,GT-R,November 2021,0
+Nissan,GT-R,December 2021,0
+Nissan,GT-R,January 2022,0
+Nissan,GT-R,February 2022,0
+Nissan,GT-R,March 2022,0
+Nissan,GT-R,April 2022,0
+Nissan,Kicks,July 2021,135
+Nissan,Kicks,August 2021,186
+Nissan,Kicks,September 2021,371
+Nissan,Kicks,October 2021,230
+Nissan,Kicks,November 2021,100
+Nissan,Kicks,December 2021,130
+Nissan,Kicks,January 2022,150
+Nissan,Kicks,February 2022,158
+Nissan,Kicks,March 2022,65
+Nissan,Kicks,April 2022,144
+Nissan,Magnite,July 2021,4073
+Nissan,Magnite,August 2021,2984
+Nissan,Magnite,September 2021,2330
+Nissan,Magnite,October 2021,3389
+Nissan,Magnite,November 2021,2292
+Nissan,Magnite,December 2021,2653
+Nissan,Magnite,January 2022,3827
+Nissan,Magnite,February 2022,2059
+Nissan,Magnite,March 2022,2942
+Nissan,Magnite,April 2022,1966
+Datsun,Go,July 2021,1
+Datsun,Go,August 2021,3
+Datsun,Go,September 2021,8
+Datsun,Go,October 2021,13
+Datsun,Go,November 2021,0
+Datsun,Go,December 2021,0
+Datsun,Go,January 2022,0
+Datsun,Go,February 2022,0
+Datsun,Go,March 2022,0
+Datsun,Go,April 2022,0
+Datsun,Go Plus,July 2021,13
+Datsun,Go Plus,August 2021,4
+Datsun,Go Plus,September 2021,29
+Datsun,Go Plus,October 2021,0
+Datsun,Go Plus,November 2021,0
+Datsun,Go Plus,December 2021,0
+Datsun,Go Plus,January 2022,0
+Datsun,Go Plus,February 2022,0
+Datsun,Go Plus,March 2022,0
+Datsun,Go Plus,April 2022,0
+Datsun,redi-go,July 2021,37
+Datsun,redi-go,August 2021,32
+Datsun,redi-go,September 2021,78
+Datsun,redi-go,October 2021,281
+Datsun,redi-go,November 2021,259
+Datsun,redi-go,December 2021,227
+Datsun,redi-go,January 2022,273
+Datsun,redi-go,February 2022,239
+Datsun,redi-go,March 2022,0
+Datsun,redi-go,April 2022,0
