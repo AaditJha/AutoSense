@@ -3,6 +3,7 @@ import Dashboard from "../Dashboard/Dashboard";
 import Overview from "./Overview";
 import TestChart from "./TestChart";
 import ChartsEmbedSDK from "@mongodb-js/charts-embed-dom";
+import CarSales from "./CarSales";
 
 function Manufacturer() {
   const features = [
@@ -12,7 +13,7 @@ function Manufacturer() {
     "About A Car",
     "Compare Cars",
   ];
-  const [active, setActive] = React.useState(features[0]);
+  const [active, setActive] = React.useState(features[1]);
   const sdk = new ChartsEmbedSDK({
     baseUrl: "https://charts.mongodb.com/charts-microsoft-engage-2022-hhrfb",
   });
@@ -25,15 +26,7 @@ function Manufacturer() {
       features={features}
       dataVis={[
         <Overview sdk={sdk}/>,
-        <iframe
-          style={{
-            width: "100%",
-            height: "100vh",
-            background: "#262626",
-            border: "none",
-          }}
-          src="https://charts.mongodb.com/charts-microsoft-engage-2022-hhrfb/embed/dashboards?id=1f52f4e3-6336-4cee-82e3-644fbd20e3c1&theme=dark&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"
-        ></iframe>,
+        <CarSales sdk={sdk}/>,
         <iframe
           style={{
             width: "100%",
