@@ -2,6 +2,12 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
+  resolve:{
+    fallback:{
+      "crypto":false,
+      "crypto-browser":false,
+    }
+  },
   entry: ["regenerator-runtime/runtime.js", path.join(__dirname, "src", "index.js")],
   output: {
     path: path.resolve(__dirname, "dist"),

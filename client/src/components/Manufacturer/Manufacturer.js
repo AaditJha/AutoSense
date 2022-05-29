@@ -1,5 +1,8 @@
 import React from "react";
 import Dashboard from "../Dashboard/Dashboard";
+import Overview from "./Overview";
+import TestChart from "./TestChart";
+import ChartsEmbedSDK from "@mongodb-js/charts-embed-dom";
 
 function Manufacturer() {
   const features = [
@@ -10,6 +13,10 @@ function Manufacturer() {
     "Compare Cars",
   ];
   const [active, setActive] = React.useState(features[0]);
+  const sdk = new ChartsEmbedSDK({
+    baseUrl: "https://charts.mongodb.com/charts-microsoft-engage-2022-hhrfb",
+  });
+
   return (
     <Dashboard
       type="Manufacturer"
@@ -17,15 +24,7 @@ function Manufacturer() {
       setActive={setActive}
       features={features}
       dataVis={[
-        <iframe
-          style={{
-            width: "100%",
-            height: "100vh",
-            background: "#262626",
-            border: "none",
-          }}
-          src="https://charts.mongodb.com/charts-microsoft-engage-2022-hhrfb/embed/dashboards?id=cb107ac7-4bfa-45a3-8c6a-fc2e6be5ca45&theme=dark&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"
-        />,
+        <Overview sdk={sdk}/>,
         <iframe
           style={{
             width: "100%",
@@ -44,6 +43,7 @@ function Manufacturer() {
           }}
           src="https://charts.mongodb.com/charts-microsoft-engage-2022-hhrfb/embed/dashboards?id=bb545667-dbfe-41a2-93fd-d1207353d7cd&theme=dark&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"
         ></iframe>,
+        <TestChart height={'600px'} width={'800px'} chartId={'629049de-cb9e-43fc-89a4-564855371890'}/>
       ]}
     />
   );

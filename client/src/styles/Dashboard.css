@@ -45,3 +45,11 @@
     padding: 5% 0% 5% 5%;
     transition: all 0.3s ease-in-out;
 }
+
+.graph-container{
+    background: #262626;
+    width: 100%;
+    height: 100vh;
+    padding: 2%;
+    overflow-y: scroll;
+}
