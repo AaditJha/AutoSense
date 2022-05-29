@@ -68,16 +68,16 @@ recordRoutes.route("/details/:model").get(function (req, res) {
 });
 
 recordRoutes.route("/used").post(function(req,response){
+  let result;
   const pyshell = new PythonShell('scripts/used_car.py');
   pyshell.send(JSON.stringify(req.body));
   pyshell.on('message', function(message){
-    console.log(message);
+    result = message;
   })
   pyshell.end(function (err,code,signal) {
     if (err) throw err;
-    console.log('finished');
+    response.status(200).json({"price":result});
   });
-  response.status(200).json(req.body);
 }
 
 )

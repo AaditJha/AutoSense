@@ -5,15 +5,13 @@ import ChartsEmbedSDK from "@mongodb-js/charts-embed-dom";
 import CarSales from "./CarSales";
 import BuildACar from "./BuildACar";
 import AboutACar from "./AboutACar";
-import SimilarCars from "./SimilarCars";
 
 function Manufacturer() {
   const features = [
     "Overview",
     "Car Sales",
-    "Build A Car",
+    "Parts Compatibility",
     "About A Car",
-    "Similar Cars",
   ];
   const [active, setActive] = React.useState(features[0]);
   const sdk = new ChartsEmbedSDK({
@@ -31,7 +29,6 @@ function Manufacturer() {
         <CarSales sdk={sdk} />,
         <BuildACar sdk={sdk} />,
         <AboutACar />,
-        <SimilarCars />,
       ]}
     />
   );

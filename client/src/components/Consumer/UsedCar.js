@@ -57,7 +57,7 @@ function UsedCar() {
       }
   
       const res = await response.json();
-      console.log(res)
+      setPredicted(res['price'])
     setResult(true);
   }
   return (
