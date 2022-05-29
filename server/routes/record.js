@@ -1,5 +1,5 @@
 const express = require("express");
-
+let {PythonShell} = require('python-shell')
 // recordRoutes is an instance of the express router.
 // We use it to define our routes.
 // The router will be added as a middleware and will take control of requests starting with path /record.
@@ -41,52 +41,45 @@ recordRoutes.route("/model").get(function (req, res) {
     });
 });
 
-// This section will help you get a single record by id
-recordRoutes.route("/record/:id").get(function (req, res) {
-  let db_connect = dbo.getDb();
-  let myquery = { _id: ObjectId(req.params.id) };
-  db_connect.collection("records").findOne(myquery, function (err, result) {
-    if (err) throw err;
-    res.json(result);
-  });
+recordRoutes.route("/model-engage").get(function (req, res) {
+  let db_connect = dbo.getDb("Autosense");
+  db_connect
+    .collection("Autosense-engage-dataset")
+    .distinct("model", function (err, result) {
+      if (err) throw err;
+      res.status(200).json(result);
+    });
 });
 
-// This section will help you create a new record.
-recordRoutes.route("/record/add").post(function (req, response) {
-  let db_connect = dbo.getDb();
-  let myobj = {
-    name: req.body.name,
-    position: req.body.position,
-    level: req.body.level,
-  };
-  db_connect.collection("records").insertOne(myobj, function (err, res) {
-    if (err) throw err;
-    response.json(res);
-  });
+recordRoutes.route("/details/:model").get(function (req, res) {
+  let db_connect = dbo.getDb("Autosense");
+  let params = req.params.model.split('+')
+  let paramstr = params[0];
+  for(var i = 1; i < params.length; i++){
+    paramstr= paramstr+' '+params[i];
+  }
+  let myquery = { "model":paramstr};
+  db_connect
+    .collection("Autosense-engage-dataset")
+    .findOne(myquery, function (err, result) {
+      if (err) throw err;
+      res.status(200).json(result);
+    });
 });
 
-// This section will help you update a record by id.
-recordRoutes.route("/update/:id").post(function (req, response) {
-  let db_connect = dbo.getDb();
-  let myquery = { _id: ObjectId(req.params.id) };
-  let newvalues = {
-    $set: {
-      name: req.body.name,
-      position: req.body.position,
-      level: req.body.level,
-    },
-  };
-});
-
-// This section will help you delete a record
-recordRoutes.route("/:id").delete((req, response) => {
-  let db_connect = dbo.getDb();
-  let myquery = { _id: ObjectId(req.params.id) };
-  db_connect.collection("records").deleteOne(myquery, function (err, obj) {
+recordRoutes.route("/used").post(function(req,response){
+  const pyshell = new PythonShell('scripts/used_car.py');
+  pyshell.send(JSON.stringify(req.body));
+  pyshell.on('message', function(message){
+    console.log(message);
+  })
+  pyshell.end(function (err,code,signal) {
     if (err) throw err;
-    console.log("1 document deleted");
-    response.json(obj);
+    console.log('finished');
   });
-});
+  response.status(200).json(req.body);
+}
+
+)
 
 module.exports = recordRoutes;

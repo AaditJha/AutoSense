@@ -1,0 +1,1 @@
+{"features": ["km_driven", "seats", "how_old", "EngineCC", "mileage_conv", "torque_conv", "max_power_conv", "Automatic", "Manual", "First Owner", "Fourth & Above Owner", "Second Owner", "Test Drive Car", "Third Owner", "Dealer", "Individual", "Trustmark Dealer", "CNG", "Diesel", "LPG", "Petrol"], "targets": ["target"], "model_type": "xgboost", "target_mapping": {}}
