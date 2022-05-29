@@ -19,7 +19,7 @@ function SelectGraph(props) {
 
   return (
     <ThemeProvider theme={darkTheme}>
-      <Box sx={{ minWidth: 120,padding: "1%" }}>
+      <Box sx={{ minWidth: 120 }}>
         <FormControl fullWidth>
           <InputLabel id="simple-select-label">{props.label}</InputLabel>
           <Select
